@@ -13,13 +13,15 @@ namespace TouchyTyper
         {
             int minNum = 1;
             int maxNum = 27;
-            int[] matchyText = new int[10]; //10 elements
+            int[] matchyText = new int[20];
             
             Random randNum = new Random();
             for (int i = 0; i < matchyText.Length; i++) {
                 matchyText[i] = randNum.Next(minNum, maxNum);
-                Console.WriteLine(matchyText[i]); //This will be temporary
+                Console.Write(matchyText[i]); //This will be temporary
             }
+
+            Console.WriteLine("\n---\n"); //Makes the text have more space
 
             for (int j = 0; j < matchyText.Length; j++) {
                 switch (matchyText[j])
@@ -103,6 +105,9 @@ namespace TouchyTyper
                         break;
                 }
             }
+
+            Console.WriteLine("\n");
+            Console.ReadLine();
         }
     }
 }
