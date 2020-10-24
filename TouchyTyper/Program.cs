@@ -21,7 +21,7 @@ namespace TouchyTyper
                 Console.Write(matchyText[i]); //This will be temporary
             }
 
-            Console.WriteLine("\n---\n"); //Makes the text have more space
+            Console.WriteLine("\n--- Try typing what you see below!\n"); //Makes the text have more space
 
             for (int j = 0; j < matchyText.Length; j++) {
                 switch (matchyText[j])
@@ -105,8 +105,8 @@ namespace TouchyTyper
                         break;
                 }
             }
-
-            Console.WriteLine("\n");
+            
+            Console.WriteLine("");
             Console.ReadLine();
         }
     }
