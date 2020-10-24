@@ -11,3 +11,16 @@ C:\Users\Home\source\repos\TouchyTyper\bin\Debug\netcoreapp3.1\TouchyTyper.pdb
 C:\Users\Home\source\repos\TouchyTyper\obj\Debug\netcoreapp3.1\TouchyTyper.dll
 C:\Users\Home\source\repos\TouchyTyper\obj\Debug\netcoreapp3.1\TouchyTyper.pdb
 C:\Users\Home\source\repos\TouchyTyper\obj\Debug\netcoreapp3.1\TouchyTyper.genruntimeconfig.cache
+C:\Users\Home\Source\Repos\TouchyTyper\TouchyTyper\bin\Debug\netcoreapp3.1\TouchyTyper.exe
+C:\Users\Home\Source\Repos\TouchyTyper\TouchyTyper\bin\Debug\netcoreapp3.1\TouchyTyper.deps.json
+C:\Users\Home\Source\Repos\TouchyTyper\TouchyTyper\bin\Debug\netcoreapp3.1\TouchyTyper.runtimeconfig.json
+C:\Users\Home\Source\Repos\TouchyTyper\TouchyTyper\bin\Debug\netcoreapp3.1\TouchyTyper.runtimeconfig.dev.json
+C:\Users\Home\Source\Repos\TouchyTyper\TouchyTyper\bin\Debug\netcoreapp3.1\TouchyTyper.dll
+C:\Users\Home\Source\Repos\TouchyTyper\TouchyTyper\bin\Debug\netcoreapp3.1\TouchyTyper.pdb
+C:\Users\Home\Source\Repos\TouchyTyper\TouchyTyper\obj\Debug\netcoreapp3.1\TouchyTyper.csprojAssemblyReference.cache
+C:\Users\Home\Source\Repos\TouchyTyper\TouchyTyper\obj\Debug\netcoreapp3.1\TouchyTyper.AssemblyInfoInputs.cache
+C:\Users\Home\Source\Repos\TouchyTyper\TouchyTyper\obj\Debug\netcoreapp3.1\TouchyTyper.AssemblyInfo.cs
+C:\Users\Home\Source\Repos\TouchyTyper\TouchyTyper\obj\Debug\netcoreapp3.1\TouchyTyper.csproj.CoreCompileInputs.cache
+C:\Users\Home\Source\Repos\TouchyTyper\TouchyTyper\obj\Debug\netcoreapp3.1\TouchyTyper.dll
+C:\Users\Home\Source\Repos\TouchyTyper\TouchyTyper\obj\Debug\netcoreapp3.1\TouchyTyper.pdb
+C:\Users\Home\Source\Repos\TouchyTyper\TouchyTyper\obj\Debug\netcoreapp3.1\TouchyTyper.genruntimeconfig.cache
